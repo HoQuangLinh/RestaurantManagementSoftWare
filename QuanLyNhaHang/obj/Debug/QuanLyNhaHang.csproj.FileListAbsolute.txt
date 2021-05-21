@@ -1,0 +1,195 @@
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.FSignup.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\bin\Debug\Bunifu_UI_v1.52 (1).dll
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+D:\datuit\Bài tập LTTQ\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.FSignup.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+F:\QUANLYNHAHANG\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\Bunifu_UI_v1.52 (1).dll
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
+C:\Users\DELL\Downloads\Restaurant-Management-function\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+F:\QUANLYNHAHANG\qlnh\Restaurant-Management-UI-m-i-nh-t\DATUI\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+F:\QUANLYNHAHANG\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\Bunifu_UI_v1.52 (1).dll
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\DELL\Downloads\Restaurant-Management-f836d444b02e2d06f4d11776077e50d3ee87b3a0\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHomeStaff.resources
+F:\baocao\Restaurant-Management-master\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHomeStaff.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHomeStaff.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHomeStaff.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete

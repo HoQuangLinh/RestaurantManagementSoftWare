@@ -193,3 +193,30 @@ E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Deb
 E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.dll
 E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\bin\Debug\itextsharp.xml
 E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\itextsharp.dll
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\itextsharp.xml
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHomeStaff.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHomeStaff.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\vomin\Desktop\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb

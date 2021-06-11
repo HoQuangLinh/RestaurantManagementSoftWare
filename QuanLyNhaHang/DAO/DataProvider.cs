@@ -20,8 +20,8 @@ namespace QuanLyNhaHang
         }
         private DataProvider() { }
 
-        public string connectionSTR = "Data Source=192.168.1.6,1433;Initial Catalog = QUANLYNHAHANG; User ID = admin; Password=123456789";
-
+        //public string connectionSTR = "Data Source=192.168.1.6,1433;Initial Catalog = QUANLYNHAHANG; User ID = admin; Password=123456789";
+        public string connectionSTR = "Data Source=DESKTOP-9FEAL71;Initial Catalog=QUANLYNHAHANG;Integrated Security=True;";
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
             DataTable data = new DataTable();

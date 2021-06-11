@@ -52,29 +52,26 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.label1.Location = new System.Drawing.Point(49, 120);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(74, 185);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(170, 36);
+            this.label1.Size = new System.Drawing.Size(244, 52);
             this.label1.TabIndex = 1;
             this.label1.Text = "Đăng nhập";
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.panel1.Location = new System.Drawing.Point(31, 203);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(46, 312);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 1);
+            this.panel1.Size = new System.Drawing.Size(300, 2);
             this.panel1.TabIndex = 3;
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.panel2.Location = new System.Drawing.Point(31, 253);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(46, 389);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(200, 1);
+            this.panel2.Size = new System.Drawing.Size(300, 2);
             this.panel2.TabIndex = 5;
             // 
             // buttonLogin
@@ -84,33 +81,30 @@
             this.buttonLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonLogin.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonLogin.ForeColor = System.Drawing.Color.White;
-            this.buttonLogin.Location = new System.Drawing.Point(31, 322);
-            this.buttonLogin.Margin = new System.Windows.Forms.Padding(2);
+            this.buttonLogin.Location = new System.Drawing.Point(46, 495);
             this.buttonLogin.Name = "buttonLogin";
-            this.buttonLogin.Size = new System.Drawing.Size(200, 31);
+            this.buttonLogin.Size = new System.Drawing.Size(300, 48);
             this.buttonLogin.TabIndex = 6;
             this.buttonLogin.Text = "Đăng nhập";
             this.buttonLogin.UseVisualStyleBackColor = false;
-          
+            this.buttonLogin.Click += new System.EventHandler(this.buttonLogin_Click);
             // 
             // txtUserName
             // 
             this.txtUserName.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUserName.Location = new System.Drawing.Point(68, 183);
-            this.txtUserName.Margin = new System.Windows.Forms.Padding(2);
+            this.txtUserName.Location = new System.Drawing.Point(102, 282);
             this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(156, 17);
+            this.txtUserName.Size = new System.Drawing.Size(234, 25);
             this.txtUserName.TabIndex = 7;
             // 
             // txtPassword
             // 
             this.txtPassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPassword.Location = new System.Drawing.Point(68, 233);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(2);
+            this.txtPassword.Location = new System.Drawing.Point(102, 358);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(156, 17);
+            this.txtPassword.Size = new System.Drawing.Size(234, 25);
             this.txtPassword.TabIndex = 8;
             this.txtPassword.UseSystemPasswordChar = true;
             // 
@@ -120,10 +114,9 @@
             this.buttonSignup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonSignup.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSignup.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.buttonSignup.Location = new System.Drawing.Point(31, 357);
-            this.buttonSignup.Margin = new System.Windows.Forms.Padding(2);
+            this.buttonSignup.Location = new System.Drawing.Point(46, 549);
             this.buttonSignup.Name = "buttonSignup";
-            this.buttonSignup.Size = new System.Drawing.Size(200, 31);
+            this.buttonSignup.Size = new System.Drawing.Size(300, 48);
             this.buttonSignup.TabIndex = 9;
             this.buttonSignup.Text = "Đăng ký";
             this.buttonSignup.UseVisualStyleBackColor = true;
@@ -132,10 +125,9 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.panel3.Location = new System.Drawing.Point(101, 357);
-            this.panel3.Margin = new System.Windows.Forms.Padding(2);
+            this.panel3.Location = new System.Drawing.Point(152, 549);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(57, 1);
+            this.panel3.Size = new System.Drawing.Size(86, 2);
             this.panel3.TabIndex = 10;
             // 
             // button3
@@ -143,10 +135,9 @@
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Image = global::QuanLyNhaHang.Properties.Resources.cancel1;
-            this.button3.Location = new System.Drawing.Point(238, 1);
-            this.button3.Margin = new System.Windows.Forms.Padding(2);
+            this.button3.Location = new System.Drawing.Point(357, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(28, 20);
+            this.button3.Size = new System.Drawing.Size(42, 31);
             this.button3.TabIndex = 11;
             this.button3.Text = "\r\n";
             this.button3.UseVisualStyleBackColor = true;
@@ -155,10 +146,9 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::QuanLyNhaHang.Properties.Resources.password;
-            this.pictureBox3.Location = new System.Drawing.Point(31, 226);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox3.Location = new System.Drawing.Point(46, 348);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(24, 23);
+            this.pictureBox3.Size = new System.Drawing.Size(36, 35);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 4;
             this.pictureBox3.TabStop = false;
@@ -166,10 +156,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::QuanLyNhaHang.Properties.Resources.login;
-            this.pictureBox2.Location = new System.Drawing.Point(31, 177);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox2.Location = new System.Drawing.Point(46, 272);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(24, 23);
+            this.pictureBox2.Size = new System.Drawing.Size(36, 35);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
@@ -177,10 +166,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::QuanLyNhaHang.Properties.Resources.burger;
-            this.pictureBox1.Location = new System.Drawing.Point(68, 35);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Location = new System.Drawing.Point(102, 54);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(127, 83);
+            this.pictureBox1.Size = new System.Drawing.Size(190, 128);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -190,9 +178,10 @@
             this.rBtnAdmin.AutoSize = true;
             this.rBtnAdmin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rBtnAdmin.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.rBtnAdmin.Location = new System.Drawing.Point(31, 278);
+            this.rBtnAdmin.Location = new System.Drawing.Point(46, 428);
+            this.rBtnAdmin.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.rBtnAdmin.Name = "rBtnAdmin";
-            this.rBtnAdmin.Size = new System.Drawing.Size(65, 21);
+            this.rBtnAdmin.Size = new System.Drawing.Size(93, 29);
             this.rBtnAdmin.TabIndex = 14;
             this.rBtnAdmin.TabStop = true;
             this.rBtnAdmin.Text = "Admin";
@@ -203,9 +192,10 @@
             this.rBtnThuNgan.AutoSize = true;
             this.rBtnThuNgan.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rBtnThuNgan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.rBtnThuNgan.Location = new System.Drawing.Point(144, 278);
+            this.rBtnThuNgan.Location = new System.Drawing.Point(216, 428);
+            this.rBtnThuNgan.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.rBtnThuNgan.Name = "rBtnThuNgan";
-            this.rBtnThuNgan.Size = new System.Drawing.Size(90, 21);
+            this.rBtnThuNgan.Size = new System.Drawing.Size(125, 29);
             this.rBtnThuNgan.TabIndex = 15;
             this.rBtnThuNgan.TabStop = true;
             this.rBtnThuNgan.Text = "Nhân viên";
@@ -213,10 +203,10 @@
             // 
             // fLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(267, 414);
+            this.ClientSize = new System.Drawing.Size(400, 637);
             this.Controls.Add(this.rBtnThuNgan);
             this.Controls.Add(this.rBtnAdmin);
             this.Controls.Add(this.button3);
@@ -233,7 +223,6 @@
             this.Controls.Add(this.buttonSignup);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.HelpButton = true;
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "fLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng nhập";

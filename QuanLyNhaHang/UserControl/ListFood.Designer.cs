@@ -78,7 +78,6 @@
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(290, 19);
             this.txtSearch.TabIndex = 1;
-           
             // 
             // panel3
             // 
@@ -108,7 +107,7 @@
             this.panel3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(916, 274);
-            this.panel3.TabIndex = 4;  
+            this.panel3.TabIndex = 4;
             // 
             // panel13
             // 
@@ -201,7 +200,6 @@
             this.txtTypeName.Size = new System.Drawing.Size(234, 28);
             this.txtTypeName.TabIndex = 12;
             this.txtTypeName.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-          
             // 
             // label3
             // 
@@ -263,7 +261,7 @@
             this.txtFoodID.Size = new System.Drawing.Size(234, 28);
             this.txtFoodID.TabIndex = 6;
             this.txtFoodID.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -316,7 +314,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1106, 418);
             this.panel2.TabIndex = 5;
-           
             // 
             // dtgvFood
             // 
@@ -350,7 +347,6 @@
             this.dtgvFood.RowsDefaultCellStyle = dataGridViewCellStyle3;
             this.dtgvFood.Size = new System.Drawing.Size(1090, 415);
             this.dtgvFood.TabIndex = 0;
-        
             // 
             // cbbSelect
             // 
@@ -363,7 +359,6 @@
             this.cbbSelect.Name = "cbbSelect";
             this.cbbSelect.Size = new System.Drawing.Size(208, 28);
             this.cbbSelect.TabIndex = 6;
-           
             // 
             // panel4
             // 
@@ -392,7 +387,6 @@
             this.buttonDeleteFood.TabIndex = 2;
             this.buttonDeleteFood.Text = "Xóa";
             this.buttonDeleteFood.UseVisualStyleBackColor = false;
-         
             // 
             // buttonAddFood
             // 
@@ -409,7 +403,6 @@
             this.buttonAddFood.TabIndex = 0;
             this.buttonAddFood.Text = "   Thêm";
             this.buttonAddFood.UseVisualStyleBackColor = false;
-           
             // 
             // buttonUpdateFood
             // 
@@ -426,7 +419,6 @@
             this.buttonUpdateFood.TabIndex = 1;
             this.buttonUpdateFood.Text = "Sửa";
             this.buttonUpdateFood.UseVisualStyleBackColor = false;
-          
             // 
             // panel14
             // 
@@ -455,7 +447,6 @@
             this.btnSearch.Size = new System.Drawing.Size(82, 35);
             this.btnSearch.TabIndex = 2;
             this.btnSearch.UseVisualStyleBackColor = true;
-         
             // 
             // ListFood
             // 
@@ -471,8 +462,7 @@
             this.Controls.Add(this.txtSearch);
             this.Controls.Add(this.panel3);
             this.Name = "ListFood";
-            this.Size = new System.Drawing.Size(1158, 845);
-          
+            this.Size = new System.Drawing.Size(1232, 845);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             this.panel2.ResumeLayout(false);

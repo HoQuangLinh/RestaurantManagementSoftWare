@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\StaffDAO.cs" />
     <Compile Include="fAddFood.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -42,5 +42,12 @@ namespace QuanLyNhaHang
             f.ShowDialog();
             this.Show();
         }
+
+        private void buttonLogin_Click(object sender, EventArgs e)
+        {
+            fHome f = new fHome();
+            this.Hide();
+            f.ShowDialog();
+        }
     }
 }

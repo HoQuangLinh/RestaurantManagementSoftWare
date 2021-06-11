@@ -104,7 +104,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1072, 148);
             this.panel1.TabIndex = 1;
-            
             // 
             // panel19
             // 
@@ -224,7 +223,6 @@
             this.label2.Size = new System.Drawing.Size(145, 29);
             this.label2.TabIndex = 4;
             this.label2.Text = "Mã hóa đơn:";
-           
             // 
             // txtTotal
             // 
@@ -273,7 +271,6 @@
             this.txtIdBill.Size = new System.Drawing.Size(234, 19);
             this.txtIdBill.TabIndex = 0;
             this.txtIdBill.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            
             // 
             // panel2
             // 
@@ -300,7 +297,7 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1072, 191);
             this.panel2.TabIndex = 2;
-          
+            // 
             // panel16
             // 
             this.panel16.BackColor = System.Drawing.Color.MidnightBlue;
@@ -467,7 +464,7 @@
             this.txtFoodName.Size = new System.Drawing.Size(234, 19);
             this.txtFoodName.TabIndex = 1;
             this.txtFoodName.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-           
+            // 
             // button1
             // 
             this.button1.FlatAppearance.BorderSize = 0;
@@ -516,8 +513,6 @@
             this.dtgvBill.RowTemplate.Height = 28;
             this.dtgvBill.Size = new System.Drawing.Size(1072, 380);
             this.dtgvBill.TabIndex = 0;
-   
-          
             // 
             // btnPrint
             // 
@@ -532,7 +527,6 @@
             this.btnPrint.TabIndex = 7;
             this.btnPrint.Text = "      In hóa đơn";
             this.btnPrint.UseVisualStyleBackColor = false;
-          
             // 
             // btnSave
             // 
@@ -547,7 +541,6 @@
             this.btnSave.TabIndex = 8;
             this.btnSave.Text = "Save";
             this.btnSave.UseVisualStyleBackColor = false;
-          
             // 
             // cbbTableName
             // 
@@ -558,7 +551,6 @@
             this.cbbTableName.Name = "cbbTableName";
             this.cbbTableName.Size = new System.Drawing.Size(254, 28);
             this.cbbTableName.TabIndex = 9;
-        
             // 
             // ListBill
             // 
@@ -573,8 +565,7 @@
             this.Controls.Add(this.panel1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "ListBill";
-            this.Size = new System.Drawing.Size(1132, 845);
-           
+            this.Size = new System.Drawing.Size(1232, 845);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);

@@ -59,6 +59,7 @@
             // panelLeft
             // 
             this.panelLeft.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(199)))), ((int)(((byte)(242)))));
+            this.panelLeft.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelLeft.Controls.Add(this.panel4);
             this.panelLeft.Controls.Add(this.buttonHelp);
             this.panelLeft.Controls.Add(this.panelMove);
@@ -83,7 +84,7 @@
             this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel4.Location = new System.Drawing.Point(0, 0);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(267, 137);
+            this.panel4.Size = new System.Drawing.Size(265, 113);
             this.panel4.TabIndex = 8;
             // 
             // pictureBox1
@@ -91,7 +92,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(0, 3);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(267, 131);
+            this.pictureBox1.Size = new System.Drawing.Size(267, 134);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
@@ -264,11 +265,12 @@
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(1413, 3);
+            this.button1.Location = new System.Drawing.Point(1414, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(34, 28);
             this.button1.TabIndex = 6;
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // buttonClose
             // 
@@ -285,6 +287,7 @@
             // panelLoadData
             // 
             this.panelLoadData.BackColor = System.Drawing.SystemColors.Control;
+            this.panelLoadData.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelLoadData.Location = new System.Drawing.Point(267, 35);
             this.panelLoadData.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelLoadData.Name = "panelLoadData";
@@ -303,7 +306,7 @@
             this.Controls.Add(this.buttonClose);
             this.Controls.Add(this.panelLeft);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.MaximumSize = new System.Drawing.Size(1500, 788);
+            this.MaximumSize = new System.Drawing.Size(1500, 880);
             this.MinimumSize = new System.Drawing.Size(1278, 718);
             this.Name = "fHome";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

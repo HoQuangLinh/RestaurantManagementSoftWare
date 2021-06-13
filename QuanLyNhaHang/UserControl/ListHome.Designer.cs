@@ -58,12 +58,12 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
+            this.lblCountOrder = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblRevenueToday = new System.Windows.Forms.Label();
             this.panelLoadData.SuspendLayout();
             this.panel7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -84,7 +84,7 @@
             // 
             // panelLoadData
             // 
-            this.panelLoadData.BackColor = System.Drawing.SystemColors.Control;
+            this.panelLoadData.BackColor = System.Drawing.Color.White;
             this.panelLoadData.Controls.Add(this.panel9);
             this.panelLoadData.Controls.Add(this.panel8);
             this.panelLoadData.Controls.Add(this.panel7);
@@ -133,9 +133,9 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(3, 72);
+            this.pictureBox3.Location = new System.Drawing.Point(3, 52);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(352, 334);
+            this.pictureBox3.Size = new System.Drawing.Size(352, 354);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 3;
             this.pictureBox3.TabStop = false;
@@ -163,7 +163,7 @@
             this.panel5.BackColor = System.Drawing.Color.DarkBlue;
             this.panel5.Location = new System.Drawing.Point(0, 420);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(1132, 9);
+            this.panel5.Size = new System.Drawing.Size(1232, 9);
             this.panel5.TabIndex = 29;
             // 
             // panel3
@@ -171,14 +171,14 @@
             this.panel3.BackColor = System.Drawing.Color.DarkBlue;
             this.panel3.Location = new System.Drawing.Point(0, 372);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1132, 9);
+            this.panel3.Size = new System.Drawing.Size(1232, 9);
             this.panel3.TabIndex = 28;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(476, 385);
+            this.label7.Location = new System.Drawing.Point(560, 384);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(138, 29);
             this.label7.TabIndex = 0;
@@ -191,15 +191,15 @@
             this.panel4.Controls.Add(this.label8);
             this.panel4.Location = new System.Drawing.Point(758, 435);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(372, 406);
+            this.panel4.Size = new System.Drawing.Size(474, 406);
             this.panel4.TabIndex = 27;
             // 
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(3, 72);
+            this.pictureBox4.Location = new System.Drawing.Point(3, 52);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(366, 334);
+            this.pictureBox4.Size = new System.Drawing.Size(468, 354);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 4;
             this.pictureBox4.TabStop = false;
@@ -224,14 +224,14 @@
             this.flowLayoutPanel1.Controls.Add(this.button6);
             this.flowLayoutPanel1.Controls.Add(this.button7);
             this.flowLayoutPanel1.Controls.Add(this.button8);
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(116, 45);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(151, 49);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(896, 288);
             this.flowLayoutPanel1.TabIndex = 25;
             // 
             // btnFoodHome
             // 
-            this.btnFoodHome.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btnFoodHome.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnFoodHome.FlatAppearance.BorderSize = 0;
             this.btnFoodHome.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFoodHome.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -248,7 +248,7 @@
             // 
             // btnFoodTable
             // 
-            this.btnFoodTable.BackColor = System.Drawing.Color.DarkSalmon;
+            this.btnFoodTable.BackColor = System.Drawing.Color.PaleGreen;
             this.btnFoodTable.FlatAppearance.BorderSize = 0;
             this.btnFoodTable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFoodTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -264,7 +264,7 @@
             // 
             // btnStaff
             // 
-            this.btnStaff.BackColor = System.Drawing.Color.Aquamarine;
+            this.btnStaff.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnStaff.FlatAppearance.BorderSize = 0;
             this.btnStaff.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnStaff.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -280,7 +280,7 @@
             // 
             // btnBill
             // 
-            this.btnBill.BackColor = System.Drawing.Color.LightGreen;
+            this.btnBill.BackColor = System.Drawing.Color.PaleGreen;
             this.btnBill.FlatAppearance.BorderSize = 0;
             this.btnBill.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBill.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -289,14 +289,14 @@
             this.btnBill.Name = "btnBill";
             this.btnBill.Size = new System.Drawing.Size(218, 138);
             this.btnBill.TabIndex = 3;
-            this.btnBill.Text = "Tạo hóa đơn";
+            this.btnBill.Text = "Hóa đơn";
             this.btnBill.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnBill.UseVisualStyleBackColor = false;
             this.btnBill.Click += new System.EventHandler(this.btnBill_Click);
             // 
             // btnRevenue
             // 
-            this.btnRevenue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnRevenue.BackColor = System.Drawing.Color.PaleGreen;
             this.btnRevenue.FlatAppearance.BorderSize = 0;
             this.btnRevenue.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRevenue.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -308,10 +308,11 @@
             this.btnRevenue.Text = "Doanh thu";
             this.btnRevenue.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnRevenue.UseVisualStyleBackColor = false;
+           
             // 
             // button6
             // 
-            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.button6.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button6.FlatAppearance.BorderSize = 0;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -326,7 +327,7 @@
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.button7.BackColor = System.Drawing.Color.PaleGreen;
             this.button7.FlatAppearance.BorderSize = 0;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Location = new System.Drawing.Point(451, 147);
@@ -338,7 +339,7 @@
             // 
             // button8
             // 
-            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.button8.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button8.FlatAppearance.BorderSize = 0;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.Location = new System.Drawing.Point(675, 147);
@@ -351,9 +352,10 @@
             // labelTime
             // 
             this.labelTime.AutoSize = true;
-            this.labelTime.Location = new System.Drawing.Point(819, 6);
+            this.labelTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTime.Location = new System.Drawing.Point(805, 13);
             this.labelTime.Name = "labelTime";
-            this.labelTime.Size = new System.Drawing.Size(51, 20);
+            this.labelTime.Size = new System.Drawing.Size(58, 22);
             this.labelTime.TabIndex = 24;
             this.labelTime.Text = "label7";
             // 
@@ -363,12 +365,13 @@
             this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.label5);
-            this.panel2.Controls.Add(this.label6);
+            this.panel2.Controls.Add(this.lblCountOrder);
             this.panel2.Font = new System.Drawing.Font("Nirmala UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel2.Location = new System.Drawing.Point(0, 640);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(360, 202);
             this.panel2.TabIndex = 23;
+            
             // 
             // pictureBox2
             // 
@@ -400,15 +403,16 @@
             this.label5.TabIndex = 1;
             this.label5.Text = "Số lượng đặt bàn";
             // 
-            // label6
+            // lblCountOrder
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(46, 85);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(92, 48);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "100";
+            this.lblCountOrder.AutoSize = true;
+            this.lblCountOrder.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCountOrder.Location = new System.Drawing.Point(46, 85);
+            this.lblCountOrder.Name = "lblCountOrder";
+            this.lblCountOrder.Size = new System.Drawing.Size(92, 48);
+            this.lblCountOrder.TabIndex = 0;
+            this.lblCountOrder.Text = "100";
+            
             // 
             // panel1
             // 
@@ -416,7 +420,7 @@
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.lblRevenueToday);
             this.panel1.Location = new System.Drawing.Point(0, 435);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(360, 182);
@@ -452,15 +456,16 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Doanh thu";
             // 
-            // label1
+            // lblRevenueToday
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(20, 72);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(177, 48);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "$30,000";
+            this.lblRevenueToday.AutoSize = true;
+            this.lblRevenueToday.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRevenueToday.Location = new System.Drawing.Point(28, 74);
+            this.lblRevenueToday.Name = "lblRevenueToday";
+            this.lblRevenueToday.Size = new System.Drawing.Size(154, 40);
+            this.lblRevenueToday.TabIndex = 0;
+            this.lblRevenueToday.Text = "$30,000";
+            
             // 
             // ListHome
             // 
@@ -469,7 +474,7 @@
             this.BackColor = System.Drawing.SystemColors.Control;
             this.Controls.Add(this.panelLoadData);
             this.Name = "ListHome";
-            this.Size = new System.Drawing.Size(1132, 845);
+            this.Size = new System.Drawing.Size(1232, 845);
             this.Load += new System.EventHandler(this.ListHome_Load);
             this.panelLoadData.ResumeLayout(false);
             this.panelLoadData.PerformLayout();
@@ -510,12 +515,12 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label lblCountOrder;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblRevenueToday;
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel9;

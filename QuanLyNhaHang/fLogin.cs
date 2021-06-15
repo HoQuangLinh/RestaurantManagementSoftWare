@@ -42,12 +42,42 @@ namespace QuanLyNhaHang
             f.ShowDialog();
             this.Show();
         }
-
+        bool Login(string userName, string password)
+        {
+            return AccountDAO.Instance.Login(userName, password);
+        }
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            fHome f = new fHome();
-            this.Hide();
-            f.ShowDialog();
+            string userName = txtUserName.Text;
+            string password = txtPassword.Text;
+
+            if (rBtnThuNgan.Checked == true && userName != "admin")
+            {
+                if (Login(userName, password) == true)
+                {
+
+                    fHomeStaff f = new fHomeStaff();
+                    this.Hide();
+                    f.ShowDialog();
+                    // this.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Sai tên tài khoản hoặc mật khẩu !");
+                }
+
+            }
+            else if (rBtnAdmin.Checked == true && userName == "admin" && Login(userName, password) == true)
+            {
+                fHome f = new fHome();
+                this.Hide();
+                f.ShowDialog();
+                //this.Show();
+            }
+            else
+            {
+                MessageBox.Show("Sai tên tài khoản hoặc mật khẩu !");
+            }
         }
     }
 }

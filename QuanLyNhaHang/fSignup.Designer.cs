@@ -373,5 +373,6 @@
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.TextBox txtIdConfirm;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }

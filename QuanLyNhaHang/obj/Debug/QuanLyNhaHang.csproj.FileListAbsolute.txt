@@ -274,3 +274,30 @@ C:\Users\vomin\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.C
 C:\Users\vomin\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
 C:\Users\vomin\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
 C:\Users\vomin\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHomeStaff.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHomeStaff.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\ADMIN\Documents\GitHub\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb

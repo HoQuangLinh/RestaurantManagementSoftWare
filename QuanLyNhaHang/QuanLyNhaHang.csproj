@@ -104,6 +104,12 @@
     <Compile Include="fHomeStaff.Designer.cs">
       <DependentUpon>fHomeStaff.cs</DependentUpon>
     </Compile>
+    <Compile Include="fInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fInvoice.Designer.cs">
+      <DependentUpon>fInvoice.cs</DependentUpon>
+    </Compile>
     <Compile Include="fLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -180,6 +186,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fHomeStaff.resx">
       <DependentUpon>fHomeStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fInvoice.resx">
+      <DependentUpon>fInvoice.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fLogin.resx">
       <DependentUpon>fLogin.cs</DependentUpon>

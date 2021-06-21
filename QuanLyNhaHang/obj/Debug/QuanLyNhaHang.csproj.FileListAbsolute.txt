@@ -329,3 +329,5 @@ C:\Users\voxua\OneDrive\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang
 C:\Users\voxua\OneDrive\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
 C:\Users\voxua\OneDrive\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
 C:\Users\voxua\OneDrive\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\datuit\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListRevenue.resources
+D:\datuit\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInvoice.resources

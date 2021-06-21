@@ -56,9 +56,10 @@
             // panel2
             // 
             this.panel2.Controls.Add(this.dtgvFoodbyId);
-            this.panel2.Location = new System.Drawing.Point(561, 18);
+            this.panel2.Location = new System.Drawing.Point(499, 14);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(668, 691);
+            this.panel2.Size = new System.Drawing.Size(594, 553);
             this.panel2.TabIndex = 21;
             // 
             // dtgvFoodbyId
@@ -84,7 +85,7 @@
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dtgvFoodbyId.DefaultCellStyle = dataGridViewCellStyle2;
             this.dtgvFoodbyId.Location = new System.Drawing.Point(0, 0);
-            this.dtgvFoodbyId.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.dtgvFoodbyId.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dtgvFoodbyId.Name = "dtgvFoodbyId";
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
@@ -96,7 +97,7 @@
             this.dtgvFoodbyId.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dtgvFoodbyId.RowHeadersVisible = false;
             this.dtgvFoodbyId.RowHeadersWidth = 62;
-            this.dtgvFoodbyId.Size = new System.Drawing.Size(662, 693);
+            this.dtgvFoodbyId.Size = new System.Drawing.Size(588, 554);
             this.dtgvFoodbyId.TabIndex = 0;
             this.dtgvFoodbyId.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvFoodbyId_CellContentClick_3);
             // 
@@ -107,10 +108,10 @@
             this.buttonOrder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOrder.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonOrder.Image = ((System.Drawing.Image)(resources.GetObject("buttonOrder.Image")));
-            this.buttonOrder.Location = new System.Drawing.Point(164, 7);
-            this.buttonOrder.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonOrder.Location = new System.Drawing.Point(146, 6);
+            this.buttonOrder.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonOrder.Name = "buttonOrder";
-            this.buttonOrder.Size = new System.Drawing.Size(173, 119);
+            this.buttonOrder.Size = new System.Drawing.Size(154, 95);
             this.buttonOrder.TabIndex = 28;
             this.buttonOrder.Text = "Gọi món";
             this.buttonOrder.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -123,10 +124,10 @@
             this.panel3.Controls.Add(this.button1);
             this.panel3.Controls.Add(this.buttonPayMonney);
             this.panel3.Controls.Add(this.buttonOrder);
-            this.panel3.Location = new System.Drawing.Point(21, 711);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel3.Location = new System.Drawing.Point(19, 569);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(514, 129);
+            this.panel3.Size = new System.Drawing.Size(457, 103);
             this.panel3.TabIndex = 28;
             // 
             // button1
@@ -137,10 +138,10 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(4, 5);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.button1.Location = new System.Drawing.Point(4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(159, 119);
+            this.button1.Size = new System.Drawing.Size(141, 95);
             this.button1.TabIndex = 30;
             this.button1.Text = "Thêm bàn";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -154,10 +155,10 @@
             this.buttonPayMonney.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonPayMonney.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonPayMonney.Image = ((System.Drawing.Image)(resources.GetObject("buttonPayMonney.Image")));
-            this.buttonPayMonney.Location = new System.Drawing.Point(339, 3);
-            this.buttonPayMonney.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonPayMonney.Location = new System.Drawing.Point(301, 2);
+            this.buttonPayMonney.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonPayMonney.Name = "buttonPayMonney";
-            this.buttonPayMonney.Size = new System.Drawing.Size(171, 121);
+            this.buttonPayMonney.Size = new System.Drawing.Size(152, 97);
             this.buttonPayMonney.TabIndex = 29;
             this.buttonPayMonney.Text = "Thanh toán";
             this.buttonPayMonney.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -173,10 +174,10 @@
             this.panel1.Controls.Add(this.btnMergeTable);
             this.panel1.Controls.Add(this.cbbSwichTable);
             this.panel1.Controls.Add(this.btnSwichTable);
-            this.panel1.Location = new System.Drawing.Point(561, 718);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel1.Location = new System.Drawing.Point(499, 574);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(662, 122);
+            this.panel1.Size = new System.Drawing.Size(589, 98);
             this.panel1.TabIndex = 29;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -186,9 +187,11 @@
             this.groupBox1.Controls.Add(this.txtTongTien);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(399, 8);
+            this.groupBox1.Location = new System.Drawing.Point(355, 6);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(274, 100);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox1.Size = new System.Drawing.Size(244, 80);
             this.groupBox1.TabIndex = 34;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tổng tiền";
@@ -197,20 +200,20 @@
             // txtTongTien
             // 
             this.txtTongTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTongTien.Location = new System.Drawing.Point(62, 45);
-            this.txtTongTien.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtTongTien.Location = new System.Drawing.Point(55, 36);
+            this.txtTongTien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtTongTien.Name = "txtTongTien";
             this.txtTongTien.ReadOnly = true;
-            this.txtTongTien.Size = new System.Drawing.Size(168, 30);
+            this.txtTongTien.Size = new System.Drawing.Size(150, 26);
             this.txtTongTien.TabIndex = 3;
             // 
             // cbbMergeTable
             // 
             this.cbbMergeTable.FormattingEnabled = true;
-            this.cbbMergeTable.Location = new System.Drawing.Point(33, 74);
-            this.cbbMergeTable.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.cbbMergeTable.Location = new System.Drawing.Point(29, 59);
+            this.cbbMergeTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbbMergeTable.Name = "cbbMergeTable";
-            this.cbbMergeTable.Size = new System.Drawing.Size(172, 28);
+            this.cbbMergeTable.Size = new System.Drawing.Size(153, 24);
             this.cbbMergeTable.TabIndex = 33;
             // 
             // btnMergeTable
@@ -221,10 +224,10 @@
             this.btnMergeTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMergeTable.Image = ((System.Drawing.Image)(resources.GetObject("btnMergeTable.Image")));
             this.btnMergeTable.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnMergeTable.Location = new System.Drawing.Point(214, 62);
-            this.btnMergeTable.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnMergeTable.Location = new System.Drawing.Point(190, 50);
+            this.btnMergeTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnMergeTable.Name = "btnMergeTable";
-            this.btnMergeTable.Size = new System.Drawing.Size(147, 45);
+            this.btnMergeTable.Size = new System.Drawing.Size(131, 36);
             this.btnMergeTable.TabIndex = 32;
             this.btnMergeTable.Text = "  Gộp";
             this.btnMergeTable.UseVisualStyleBackColor = false;
@@ -233,10 +236,10 @@
             // cbbSwichTable
             // 
             this.cbbSwichTable.FormattingEnabled = true;
-            this.cbbSwichTable.Location = new System.Drawing.Point(33, 20);
-            this.cbbSwichTable.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.cbbSwichTable.Location = new System.Drawing.Point(29, 16);
+            this.cbbSwichTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbbSwichTable.Name = "cbbSwichTable";
-            this.cbbSwichTable.Size = new System.Drawing.Size(172, 28);
+            this.cbbSwichTable.Size = new System.Drawing.Size(153, 24);
             this.cbbSwichTable.TabIndex = 31;
             this.cbbSwichTable.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -248,10 +251,10 @@
             this.btnSwichTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSwichTable.Image = ((System.Drawing.Image)(resources.GetObject("btnSwichTable.Image")));
             this.btnSwichTable.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSwichTable.Location = new System.Drawing.Point(214, 8);
-            this.btnSwichTable.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnSwichTable.Location = new System.Drawing.Point(190, 6);
+            this.btnSwichTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSwichTable.Name = "btnSwichTable";
-            this.btnSwichTable.Size = new System.Drawing.Size(147, 45);
+            this.btnSwichTable.Size = new System.Drawing.Size(131, 36);
             this.btnSwichTable.TabIndex = 30;
             this.btnSwichTable.Text = "    Chuyển";
             this.btnSwichTable.UseVisualStyleBackColor = false;
@@ -262,24 +265,25 @@
             this.flowLayoutPanel1.AutoScroll = true;
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(213)))), ((int)(((byte)(242)))));
             this.flowLayoutPanel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(21, 18);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(19, 14);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(514, 691);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(457, 553);
             this.flowLayoutPanel1.TabIndex = 30;
             this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
             // 
             // ListTable
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "ListTable";
-            this.Size = new System.Drawing.Size(1233, 845);
+            this.Size = new System.Drawing.Size(1096, 676);
             this.Load += new System.EventHandler(this.ListTable_Load);
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvFoodbyId)).EndInit();

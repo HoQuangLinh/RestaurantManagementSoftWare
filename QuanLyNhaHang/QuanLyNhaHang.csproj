@@ -64,6 +64,7 @@
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\FoodCategoryDAO.cs" />
     <Compile Include="DAO\FoodDAO.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
     <Compile Include="DAO\RevenueDAO.cs" />
     <Compile Include="DAO\StaffDAO.cs" />
     <Compile Include="DAO\TableDAO.cs" />

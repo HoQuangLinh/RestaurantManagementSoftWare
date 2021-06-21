@@ -64,6 +64,7 @@
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\FoodCategoryDAO.cs" />
     <Compile Include="DAO\FoodDAO.cs" />
+    <Compile Include="DAO\RevenueDAO.cs" />
     <Compile Include="DAO\StaffDAO.cs" />
     <Compile Include="DAO\TableDAO.cs" />
     <Compile Include="DTO\Bill.cs" />
@@ -119,6 +120,12 @@
     </Compile>
     <Compile Include="fSignup.Designer.cs">
       <DependentUpon>fSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ListRevenue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ListRevenue.Designer.cs">
+      <DependentUpon>ListRevenue.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControl\ListHomeStaff.cs">
       <SubType>UserControl</SubType>
@@ -193,6 +200,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserControl\ListHomeStaff.resx">
       <DependentUpon>ListHomeStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ListRevenue.resx">
+      <DependentUpon>ListRevenue.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControl\ListStaff.resx">
       <DependentUpon>ListStaff.cs</DependentUpon>

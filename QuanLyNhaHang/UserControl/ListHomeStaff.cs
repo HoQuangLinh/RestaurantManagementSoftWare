@@ -19,8 +19,20 @@ namespace QuanLyNhaHang
         public ListHomeStaff()
         {
             InitializeComponent();
+            LoadRevenueToDay();
+            LoadCountBillToDay();
+        }
+        public void LoadRevenueToDay()
+        {
+            int RevenueToday = RevenueDAO.Instance.GetRevenueToDay();
+            lblRevenueToday.Text = string.Format("{0:n0}", RevenueToday);
+
         }
 
+        void LoadCountBillToDay()
+        {
+            lblCountOrder.Text = BillDAO.Instance.GetCountBillToDay().ToString();
+        }
         private void ListHome_Load(object sender, EventArgs e)
         {
             DateTime today = DateTime.Now;
@@ -100,6 +112,19 @@ namespace QuanLyNhaHang
         private void bunifuThinButton21_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void lblRevenueToday_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRevenue_Click(object sender, EventArgs e)
+        {
+            panelLoadData.Controls.Clear();
+            ListRevenue f = new ListRevenue();
+            panelLoadData.Controls.Add(f);
+            f.BringToFront();
         }
     }
 }

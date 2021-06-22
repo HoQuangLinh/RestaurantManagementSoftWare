@@ -331,3 +331,5 @@ C:\Users\voxua\OneDrive\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang
 C:\Users\voxua\OneDrive\Desktop\New folder\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
 D:\datuit\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListRevenue.resources
 D:\datuit\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInvoice.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInvoice.resources
+E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListRevenue.resources

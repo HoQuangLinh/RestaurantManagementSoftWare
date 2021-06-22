@@ -19,8 +19,19 @@ namespace QuanLyNhaHang
         public ListHome()
         {
             InitializeComponent();
+            LoadRevenueToDay();
+            LoadCountBillToDay();
         }
+        public void LoadRevenueToDay()
+        {
+            int RevenueToday = RevenueDAO.Instance.GetRevenueToDay();
+            lblRevenueToday.Text = string.Format("{0:n0}", RevenueToday);
 
+        }
+        void LoadCountBillToDay()
+        {
+            lblCountOrder.Text = BillDAO.Instance.GetCountBillToDay().ToString();
+        } 
         private void ListHome_Load(object sender, EventArgs e)
         {
             DateTime today = DateTime.Now;
@@ -96,7 +107,13 @@ namespace QuanLyNhaHang
             panelLoadData.Controls.Add(f);
             f.BringToFront();
         }
-
+        private void btnRevenue_Click(object sender, EventArgs e)
+        {
+            panelLoadData.Controls.Clear();
+            ListRevenue f = new ListRevenue();
+            panelLoadData.Controls.Add(f);
+            f.BringToFront();
+        }
         private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
 
@@ -108,6 +125,11 @@ namespace QuanLyNhaHang
         }
 
         private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }

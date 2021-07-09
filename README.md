@@ -6,11 +6,11 @@ Dựa vào kiến thức đã được học, sự cần thiết của vấn đ�
 
 <h2>Các chức năng chính của ứng dụng</h2>
 
- 1.	Quản lý món ăn ( Thêm ,sửa, xoá từng món ăn, tìm kiếm thông tin của món ăn)
+ 1.	Quản lý món ăn (Thêm ,sửa, xoá từng món ăn, tìm kiếm thông tin của món ăn)
  2.	Quản lý bàn ăn (Thêm bàn, gọi món, thanh toán,chuyển bàn, gộp bàn,xem danh sách món ăn của mỗi bàn)
- 3.	Quản lý nhân viên (Thêm, xoá, sửa thông tin của từng nhân viên, tìm kiếm thông tin của nhân viên theo tên )
- 4.	Quản lý phân quyền (admin và nhân viên thu nhân  )
- 5. Quản lý hoá đơn ( Xem lịch sử hoá đơn và chi tiết của từng hoá đơn theo mã bàn, tìm kiếm thông tin của hoá đơn theo b )
+ 3.	Quản lý nhân viên (Thêm, xoá, sửa thông tin của từng nhân viên, tìm kiếm thông tin của nhân viên theo tên)
+ 4.	Quản lý phân quyền (admin và nhân viên thu nhân )
+ 5. Quản lý hoá đơn (Xem lịch sử hoá đơn và chi tiết của từng hoá đơn theo mã bàn, tìm kiếm thông tin của hoá đơn theo bàn)
  6.	Xem doanh thu theo ngày, tháng, năm
  7. Phân quyền app (Người quản trị và nhân viên sử dụng)
 

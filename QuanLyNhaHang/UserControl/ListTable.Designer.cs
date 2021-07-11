@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ListTable));
             this.panel2 = new System.Windows.Forms.Panel();
             this.dtgvFoodbyId = new System.Windows.Forms.DataGridView();
@@ -67,34 +67,34 @@
             this.dtgvFoodbyId.AllowUserToAddRows = false;
             this.dtgvFoodbyId.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dtgvFoodbyId.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgvFoodbyId.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgvFoodbyId.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
             this.dtgvFoodbyId.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dtgvFoodbyId.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dtgvFoodbyId.DefaultCellStyle = dataGridViewCellStyle8;
             this.dtgvFoodbyId.Location = new System.Drawing.Point(0, 0);
-            this.dtgvFoodbyId.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dtgvFoodbyId.Margin = new System.Windows.Forms.Padding(4);
             this.dtgvFoodbyId.Name = "dtgvFoodbyId";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgvFoodbyId.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgvFoodbyId.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
             this.dtgvFoodbyId.RowHeadersVisible = false;
             this.dtgvFoodbyId.RowHeadersWidth = 62;
             this.dtgvFoodbyId.Size = new System.Drawing.Size(588, 554);
@@ -108,8 +108,8 @@
             this.buttonOrder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOrder.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonOrder.Image = ((System.Drawing.Image)(resources.GetObject("buttonOrder.Image")));
-            this.buttonOrder.Location = new System.Drawing.Point(146, 6);
-            this.buttonOrder.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonOrder.Location = new System.Drawing.Point(148, 4);
+            this.buttonOrder.Margin = new System.Windows.Forms.Padding(4);
             this.buttonOrder.Name = "buttonOrder";
             this.buttonOrder.Size = new System.Drawing.Size(154, 95);
             this.buttonOrder.TabIndex = 28;
@@ -125,7 +125,7 @@
             this.panel3.Controls.Add(this.buttonPayMonney);
             this.panel3.Controls.Add(this.buttonOrder);
             this.panel3.Location = new System.Drawing.Point(19, 569);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(457, 103);
             this.panel3.TabIndex = 28;
@@ -138,10 +138,10 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(4, 4);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Location = new System.Drawing.Point(0, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(141, 95);
+            this.button1.Size = new System.Drawing.Size(145, 95);
             this.button1.TabIndex = 30;
             this.button1.Text = "Thêm bàn";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -155,10 +155,10 @@
             this.buttonPayMonney.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonPayMonney.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonPayMonney.Image = ((System.Drawing.Image)(resources.GetObject("buttonPayMonney.Image")));
-            this.buttonPayMonney.Location = new System.Drawing.Point(301, 2);
-            this.buttonPayMonney.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonPayMonney.Location = new System.Drawing.Point(305, 4);
+            this.buttonPayMonney.Margin = new System.Windows.Forms.Padding(4);
             this.buttonPayMonney.Name = "buttonPayMonney";
-            this.buttonPayMonney.Size = new System.Drawing.Size(152, 97);
+            this.buttonPayMonney.Size = new System.Drawing.Size(152, 95);
             this.buttonPayMonney.TabIndex = 29;
             this.buttonPayMonney.Text = "Thanh toán";
             this.buttonPayMonney.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -175,7 +175,7 @@
             this.panel1.Controls.Add(this.cbbSwichTable);
             this.panel1.Controls.Add(this.btnSwichTable);
             this.panel1.Location = new System.Drawing.Point(499, 574);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(589, 98);
             this.panel1.TabIndex = 29;
@@ -201,7 +201,7 @@
             // 
             this.txtTongTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTongTien.Location = new System.Drawing.Point(55, 36);
-            this.txtTongTien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTongTien.Margin = new System.Windows.Forms.Padding(4);
             this.txtTongTien.Name = "txtTongTien";
             this.txtTongTien.ReadOnly = true;
             this.txtTongTien.Size = new System.Drawing.Size(150, 26);
@@ -211,7 +211,7 @@
             // 
             this.cbbMergeTable.FormattingEnabled = true;
             this.cbbMergeTable.Location = new System.Drawing.Point(29, 59);
-            this.cbbMergeTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbbMergeTable.Margin = new System.Windows.Forms.Padding(4);
             this.cbbMergeTable.Name = "cbbMergeTable";
             this.cbbMergeTable.Size = new System.Drawing.Size(153, 24);
             this.cbbMergeTable.TabIndex = 33;
@@ -225,7 +225,7 @@
             this.btnMergeTable.Image = ((System.Drawing.Image)(resources.GetObject("btnMergeTable.Image")));
             this.btnMergeTable.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMergeTable.Location = new System.Drawing.Point(190, 50);
-            this.btnMergeTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMergeTable.Margin = new System.Windows.Forms.Padding(4);
             this.btnMergeTable.Name = "btnMergeTable";
             this.btnMergeTable.Size = new System.Drawing.Size(131, 36);
             this.btnMergeTable.TabIndex = 32;
@@ -237,7 +237,7 @@
             // 
             this.cbbSwichTable.FormattingEnabled = true;
             this.cbbSwichTable.Location = new System.Drawing.Point(29, 16);
-            this.cbbSwichTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbbSwichTable.Margin = new System.Windows.Forms.Padding(4);
             this.cbbSwichTable.Name = "cbbSwichTable";
             this.cbbSwichTable.Size = new System.Drawing.Size(153, 24);
             this.cbbSwichTable.TabIndex = 31;
@@ -252,7 +252,7 @@
             this.btnSwichTable.Image = ((System.Drawing.Image)(resources.GetObject("btnSwichTable.Image")));
             this.btnSwichTable.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSwichTable.Location = new System.Drawing.Point(190, 6);
-            this.btnSwichTable.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSwichTable.Margin = new System.Windows.Forms.Padding(4);
             this.btnSwichTable.Name = "btnSwichTable";
             this.btnSwichTable.Size = new System.Drawing.Size(131, 36);
             this.btnSwichTable.TabIndex = 30;
@@ -266,7 +266,7 @@
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(213)))), ((int)(((byte)(242)))));
             this.flowLayoutPanel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(19, 14);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(457, 553);
             this.flowLayoutPanel1.TabIndex = 30;

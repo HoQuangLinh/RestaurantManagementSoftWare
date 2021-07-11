@@ -19,11 +19,11 @@ create table TAIKHOAN
 )
 create table NHANVIEN
 (	
-    MANHANVIEN int  primary key,
+    MANHANVIEN int identity(1,1)  primary key,
 	HOTEN nvarchar(100) not null,
 	CHUCVU nvarchar(100) not null,
 	GIOITINH nvarchar(10) not null,
-	NGAYSINH smalldatetime
+	NGAYSINH date
 )
 go
 create table LOAITHUCAN
@@ -34,7 +34,7 @@ create table LOAITHUCAN
 go
 create table THUCAN
 (
-   MATHUCAN int  primary key,
+   MATHUCAN int identity(1,1)  primary key,
    GIA int not null,
    TENTHUCAN nvarchar(100) unique not null,
    MALOAI int not null
@@ -45,7 +45,8 @@ create table HOADON
 (
 	MAHOADON int identity(1,1)  primary key,
 	MABAN int,
-	NGAYTHANHTOAN smalldatetime default null,
+	NGAYGOIMON date,
+	NGAYTHANHTOAN date default null,
 	TRANGTHAI nvarchar(50) default N'Chưa thanh toán',
 	TONGTIEN int default 0
 	foreign key(MABAN) references BANAN(MABAN)
@@ -90,6 +91,84 @@ create proc USP_GetListMenuByIdTable @MABAN int --Show ra cai thong tin hoa don 
 	and hd.MABAN=@MABAN and hd.TRANGTHAI=N'Chưa thanh toán'
 	end
 go
+create proc USP_SwitchTable @Maban1 int,@Maban2 int
+as
+begin
+declare @MaHD1 int  
+declare @MaHD2 int
+
+select @MaHD1=MAHOADON from HOADON
+where MABAN=@Maban1 and TRANGTHAI=N'Chưa thanh toán'
+select @MaHD2=MAHOADON from HOADON
+where MABAN=@Maban2 and TRANGTHAI=N'Chưa thanh toán'
+if(@MAHD2 is null)
+  begin 
+	insert into HOADON(MABAN)
+	values(@MaBan2)
+	select @MaHD2=max(MAHOADON) from HOADON
+	update CHITIETHOADON set MAHOADON=@MaHD2 where MAHOADON=@MAHD1
+	update BANAN set TRANGTHAI=N'Trống' where MABAN=@Maban1
+	update BANAN set TRANGTHAI=N'Có người' where MABAN=@Maban2
+	delete HOADON where MAHOADON=@MaHD1
+  end
+else if(@MAHD1 is null)
+  begin
+	insert into HOADON(MABAN)
+	values(@MaBan1)
+	select @MaHD1=max(MAHOADON) from HOADON
+	update CHITIETHOADON set MAHOADON=@MaHD1 where MAHOADON=@MAHD2
+	update BANAN set TRANGTHAI=N'Trống' where MABAN=@Maban2
+	update BANAN set TRANGTHAI=N'Có người' where MABAN=@Maban1
+	delete HOADON where MAHOADON=@MaHD2
+  end
+else
+  begin
+	select MACHITIET into temp
+	from CHITIETHOADON
+	where MAHOADON=@MAHD1 
+
+	update CHITIETHOADON set MAHOADON=@MAHD1 where MAHOADON=@MaHD2;
+	update CHITIETHOADON set MAHOADON=@MAHD2 
+	where MACHITIET in (select MACHITIET from temp)
+	drop table temp
+  end
+ 
+
+end
+go
+create proc USP_MergeTable @Maban1 int,@Maban2 int
+as
+begin
+declare @MaHD1 int  
+declare @MaHD2 int
+
+select @MaHD1=MAHOADON from HOADON
+where MABAN=@Maban1 and TRANGTHAI=N'Chưa thanh toán'
+select @MaHD2=MAHOADON from HOADON
+where MABAN=@Maban2 and TRANGTHAI=N'Chưa thanh toán'
+ if(@MAHD2 is null)
+  begin 
+	insert into HOADON(MABAN)
+	values(@Maban2)
+	select @MaHD2=max(MAHOADON) from HOADON
+	update CHITIETHOADON set MAHOADON=@MaHD2 where MAHOADON=@MAHD1
+	update BANAN set TRANGTHAI=N'Trống' where MABAN=@Maban1
+	update BANAN set TRANGTHAI=N'Có người' where MABAN=@Maban2
+	delete HOADON where MAHOADON=@MaHD1
+  end
+  else
+  begin
+	update CHITIETHOADON set MAHOADON=@MAHD2 where MAHOADON=@MaHD1;
+	delete HOADON where MAHOADON=@MaHD1
+	update BANAN set TRANGTHAI=N'Trống' where MABAN=@Maban1
+	
+  end
+ 
+
+end
+
+go
+
 insert into BANAN(MABAN,TENBAN)
 values
 (1,N'Bàn 1'),
@@ -114,20 +193,18 @@ values
 (5,N'Mì'),
 (6,N'Đồ nước')
 go
-insert into THUCAN(MATHUCAN,TENTHUCAN,GIA,MALOAI)
+insert into THUCAN(TENTHUCAN,GIA,MALOAI)
 values 
-(1,N'Cơm chiên dương châu',30000,1),
-(2,N'Cơm chiên cá mặn',35000,1),
-(3,N'Cơm chiên trứng cuộn',25000,1),
-(4,N'Cơm chiên trái thơm',35000,1),
-(5,N'Bia tiger',150000,6),
-(6,N'Sting',12000,6),
-(7,N'Pepsi',10000,6),
-(8,N'7 up',10000,6),
-(9,N'Bia Sài Gòn',12000,6),
-(10,N'Mì chiên hải sản',25000,5),
-(11,N'Mì Ý',30000,5),
-(12,N'Kem dừa chuối chiên',25000,4)
+(N'Cơm chiên dương châu',30000,1),
+(N'Cơm chiên cá mặn',35000,1),
+(N'Cơm chiên trứng cuộn',25000,1),
+(N'Cơm chiên trái thơm',35000,1),
+(N'Bia tiger',150000,6),
+(N'Sting',12000,6),
+(N'Pepsi',10000,6),
+(N'7 up',10000,6),
+(N'Bia Sài Gòn',12000,6),
+(N'Mì chiên hải sản',25000,5),
+(N'Mì Ý',30000,5),
+(N'Kem dừa chuối chiên',25000,4)
 SET DATEFORMAT DMY
-
-

@@ -73,7 +73,9 @@
     <Compile Include="DTO\Food.cs" />
     <Compile Include="DTO\FoodCategory.cs" />
     <Compile Include="DTO\Menu.cs" />
+    <Compile Include="DTO\Staff.cs" />
     <Compile Include="DTO\Table.cs" />
+    <Compile Include="DTO\User.cs" />
     <Compile Include="fAddFood.cs">
       <SubType>Form</SubType>
     </Compile>

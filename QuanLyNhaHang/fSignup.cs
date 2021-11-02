@@ -114,5 +114,10 @@ namespace QuanLyNhaHang
                 errorProvider1.SetError(txtRePassword, null);
             }
         }
+
+        private void fSignup_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

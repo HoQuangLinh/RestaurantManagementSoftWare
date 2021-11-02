@@ -333,3 +333,31 @@ D:\datuit\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.f
 E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInvoice.resources
 E:\Cong Nghe Phan Mem\Doan\Restaurant-Management\Do_an_lon\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListRevenue.resources
 D:\datuit\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\itextsharp.dll
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\bin\Debug\itextsharp.xml
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddFood.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAddStaff.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHelp.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHome.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fHomeStaff.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInvoice.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fOrder.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSignup.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListBill.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHome.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListFood.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListHomeStaff.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListRevenue.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListStaff.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ListTable.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb

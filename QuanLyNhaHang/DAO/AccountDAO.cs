@@ -9,7 +9,7 @@ using System.Security.Cryptography;
 
 namespace QuanLyNhaHang
 {
-    class AccountDAO
+    public class AccountDAO
     {
         private static AccountDAO instance;
         public static AccountDAO Instance
